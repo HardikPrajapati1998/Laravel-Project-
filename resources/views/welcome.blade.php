@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Hardik
+                    Laravel Quiz
                 </div>
 
                 <div class="links">
